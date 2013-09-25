@@ -1,9 +1,12 @@
 Controller Configurations for Nintendont
 
-File/Controller						Author
-PS2							crediar
-PS3							crediar
-F510							crediar
-Trio Linker v1 (GC, DC, PS)				DRaGMaRe
-Wii CC USB (MayFlash Wii Classic Controller to USB)	Nano
-Wii U Pro USB (MayFlash Wii U Pro Controller to USB)	iwantpizza
+File/Controller							Author
+PS2								crediar
+PS3								crediar
+F510								crediar
+Trio Linker v1 (GC, DC, PS)					DRaGMaRe
+Wii CC USB (MayFlash Wii Classic Controller to USB)*		Nano
+Wii CC Pro USB (MayFlash Wii Classic Conroller Pro to USB)*	wangtang32000
+Wii U Pro USB (MayFlash Wii U Pro Controller to USB)		iwantpizza
+
+* unlike the name suggests, both adapters support the pro classic controller
